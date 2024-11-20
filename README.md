@@ -2,10 +2,10 @@
 this is a small script to make a extract text from pdf file.  
 
 ### Dependencies:
-1- [pdftotext](https://pypi.org/project/pdftotext/)
+1- [PyPDF2](https://pypi.org/project/pypdf2/)
 
 ## Usage
-Run ```python script.py``` then enter path of pdf file.
+Run ```python PDF2Text.py```
 
 
 
